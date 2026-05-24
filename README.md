@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Sibidharan profile views](https://u8views.com/api/v1/github/profiles/10979210/views/day-week-month-total-count.svg)](https://u8views.com/github/sibidharan)
 <!--
 **sibidharan/sibidharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
